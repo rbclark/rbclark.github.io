@@ -64,6 +64,6 @@ nameserver 1.0.0.1
 ```
 
 Credits:
-  * https://robpol86.com/raspberry_pi_project_fi.html This article got me about 90% there, the biggest issue being the current version of libqmi-utils being broken.
-  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845979 This bug report tipped me off to roll the libqmi-utils version back to before 1.16.2.
-  * https://gist.github.com/alvaro893/f5b8dd026eb98959e8c6c59a45b63cc2
+  * [https://robpol86.com/raspberry_pi_project_fi.html](https://robpol86.com/raspberry_pi_project_fi.html) This article got me about 90% there, the biggest issue being the current version of libqmi-utils being broken.
+  * [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845979](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=845979) This bug report tipped me off to roll the libqmi-utils version back to before 1.16.2.
+  * [https://gist.github.com/alvaro893/f5b8dd026eb98959e8c6c59a45b63cc2](https://gist.github.com/alvaro893/f5b8dd026eb98959e8c6c59a45b63cc2)
