@@ -10,7 +10,7 @@ categories:
   - Linux
   - Open Source Programs
 ---
-Gwetting VMWare Workstation Player 14 (the free one) to work with Packer on Ubuntu 16.04 is possible and not very difficult, however it is very undocumented. In order to get it working you will need a few different packages, listed below
+Getting VMWare Workstation Player 14 (the free one) to work with Packer on Ubuntu 16.04 is possible and not very difficult, however it is very undocumented. In order to get it working you will need a few different packages, listed below
 
   1. [Packer](https://www.packer.io/downloads.html) (Download the Linux 64-bit version, at the time of this guide the latest version is 1.1.1)
   2. [VMWare Workstation Player 14](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0) (I downloaded the version for Linux 64-bit from the previous link)
